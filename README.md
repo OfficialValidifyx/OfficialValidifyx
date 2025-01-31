@@ -8,7 +8,7 @@ Validifyx streamlines onboarding with an all-in-one platform that handles Right 
 # How to Reach Out
 - **E-Mail:** support@validifyx.com
 - **WhatsApp:** +234 816 614 8343
-- **Call:** +234803 2866028
+- **Call:** +234803 2866028 <br>
             +234 813 554 5344
 
 
