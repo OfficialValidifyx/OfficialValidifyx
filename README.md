@@ -13,7 +13,5 @@ Validifyx streamlines onboarding with an all-in-one platform that handles Right 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialValidifyx)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialValidifyx&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/OfficialValidifyx/contributions?format=svg&private=true)  
 
